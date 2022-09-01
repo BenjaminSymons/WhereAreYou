@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Where Are You</string>
+    <string name="silent">Silent</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="ring">Ring</string>
+    <string name="mode">Mode</string>
+</resources>
